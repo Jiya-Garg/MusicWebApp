@@ -1,0 +1,25 @@
+.heading {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+span {
+    font-size: 25px;
+    color: black;
+    font-family: fantasy;
+}
+h3 {
+    box-shadow: 20px 20px 10px rgb(124, 224, 232);
+}
+#SongName {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 525;
+    font-size: 30px;
+    box-shadow: 10px 10px 10px rgb(50, 92, 124);
+}
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border: 3px solid rgb(38, 30, 30);
+    border-radius: 30px;
+    margin-top: 100px;
+}
